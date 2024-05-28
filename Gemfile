@@ -3,4 +3,5 @@
 source "https://gems.ruby-china.com/"
 
 gemspec
-
+gem 'tzinfo'
+gem 'tzinfo-data'

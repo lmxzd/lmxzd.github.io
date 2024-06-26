@@ -39,7 +39,7 @@ widget3:
 #   url: https://tinyletter.com/feeling-responsive
 #   text: Inform me about new updates and features ›
 #   style: alert
-permalink: /java.html
+permalink: /java/
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation

@@ -1,0 +1,66 @@
+- title: 首页
+  url: "/"
+  side: left
+
+- title: 分类
+  url: "/categories/"
+  side: left
+
+- title: "Java"
+  url: "/java/"
+  side: left
+  dropdown:
+  - title: "Java基础"
+    url: "/java/javaBase/piecemeal"
+  - title: "JVM"
+    url: "/java/jvm/"
+  - title: "多线程"
+    url: "/java/thread/"
+  - title: "Lambda"
+    url: "/java/lambda/functionalProgramming"
+
+- title: "架构设计"
+  url: "/architecture/"
+  side: left
+  dropdown:
+  - title: "重构"
+    url: "/architecture/restructure/"
+  - title: "DDD"
+    url: "/architecture/domainDrivenDesign/"
+  - title: "设计模式"
+    url: "/architecture/designPattern/"
+
+
+#- title: AI
+#  url: "/ai/"
+#  side: left
+#  dropdown:
+#    - title: "什么是AI"
+#      url: "/ai/whatIsAI/"
+#    - title: "程序员怎么用"
+#      url: "/ai/HowToUseIt/coder"
+#    - title: "怎么用"
+#      url: "/ai/HowToUseIt/other"
+
+
+#- title: 读书笔记
+#  url: "/bookNotes/"
+#  side: left
+#  dropdown:
+#  - title: "平凡的世界"
+#    url: "/bookNotes/平凡的世界/"
+#  - title: "DDD 领域驱动设计"
+#    url: "/bookNotes/domainDrivenDesign"
+
+
+- title: 乱七八糟
+  url: "/mess/"
+  side: right
+
+- title: 归档
+  url: "/archive/"
+  side: right
+
+- title: "关于我..."
+  url: "/contact/"
+  side: right

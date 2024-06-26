@@ -1,0 +1,30 @@
+#- menu_name: "链接..."
+
+#- name: "CSDN"
+#  url: "/contact/"
+#  title: "Contact"
+#
+#- name: "RSS"
+#  url: "/feed.xml"
+#  title: "Subscribe to RSS Feed"
+#
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
+#
+#- name: "sitemap.xml"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
+
+#- name: "博客园"
+#  url: "http://www.cnblogs.com/lmxzd"
+#  title: "博客园"
+#
+#- name: "CSDN"
+#  url: "http://csdn.net/dd1064934578"
+#
+#  title: "CSDN"
+
+#- name: "WeChat"
+#  url: "https://raw.githubusercontent.com/lmxzd/image-repo/main/md/49e9d89dc64b44c4b758be8d3264743.jpg"
+#  title: "微信"

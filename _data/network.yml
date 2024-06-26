@@ -1,0 +1,49 @@
+#- menu_name: "Dankeschön"
+#
+#- name: "Icons by Daniel Bruce"
+#  url: "http://entypo.com/"
+#  class: "network-entypo"
+#  title: "Icons by Daniel Bruce"
+#
+#- name: "Built on Foundation"
+#  url: "http://foundation.zurb.com/"
+#  class: "services-newsletter"
+#  title: "Built on Foundation"
+#
+#- name: "Images by Unsplash"
+#  url: "http://unsplash.com/"
+#  class: "rss-link"
+#  title: "Images by Unsplash"
+#
+#- name: "Using Backstretch by Scott Robbin"
+#  url: "http://srobbin.com/jquery-plugins/backstretch/"
+#  class: "sitemap-link"
+#  title: "Using Backstretch by Scott Robbin"
+
+
+- menu_name: "links..."
+
+#- name: "CSDN"
+#  url: "/contact/"
+#  title: "Contact"
+#
+#- name: "RSS"
+#  url: "/feed.xml"
+#  title: "Subscribe to RSS Feed"
+#
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
+#
+#- name: "sitemap.xml"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
+
+- name: "博客园"
+  url: "http://www.cnblogs.com/lmxzd"
+  title: "博客园"
+
+- name: "CSDN"
+  url: "http://csdn.net/dd1064934578"
+
+  title: "CSDN"

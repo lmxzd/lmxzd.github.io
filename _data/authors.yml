@@ -1,0 +1,21 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+#phlow: # replace this with your info
+#  name: "Phlow"
+#  siterole: "webmaster, developer, copywriter, designer"
+#  uri: http://phlow.de/
+#  email:
+#  twitter: "@phlow"
+
+zd:
+  name: "东东"
+  siterole: "一个正在学习的程序员..."
+  uri: https://lmxzd.github.io/
+  email: "zhangdong1064@gmail.com"
+  wechat: "weixin1064934578"
+# you can add more authors here
